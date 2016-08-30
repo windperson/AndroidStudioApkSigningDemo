@@ -41,7 +41,7 @@ captures/
 .idea/libraries
 
 # Keystore files
-*.jks
+# *.jks
 
 ### Android Patch ###
 gen-external-apklibs
@@ -96,7 +96,6 @@ fabric.properties
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
 # modules.xml
 # .idea/misc.xml 
 # *.ipr
